@@ -4,4 +4,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:13:BB:1A&stream=1330458&extension=ts
+http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=1163656&extension=ts
