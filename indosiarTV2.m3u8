@@ -4,5 +4,5 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.ts
 http://iptvtree.net:8080/F15554/Tve5ZWQEd485/162138
