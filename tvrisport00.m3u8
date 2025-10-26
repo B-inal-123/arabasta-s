@@ -4,4 +4,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://103.153.246.42:4022/udp/239.2.2.8:3000
+http://103.153.246.42:4022/udp/239.2.2.7:3000
