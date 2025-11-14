@@ -3,4 +3,5 @@
 #EXT-X-TARGETDURATION:4
 #EXT-X-MEDIA-SEQUENCE:1744043697
 #EXTINF:4,
+http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
 http://filex.me:8080/live/drzain/002808/302279.ts
