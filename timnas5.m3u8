@@ -4,4 +4,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=1163656&extension=ts
+http://filex.tv:8080//live/000003/000003/302264.ts
