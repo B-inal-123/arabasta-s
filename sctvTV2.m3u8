@@ -4,4 +4,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://filex.me:8080/live/drzain/002808/302301.ts
+http://202.169.224.202:8800/udp/239.9.1.29:1234
