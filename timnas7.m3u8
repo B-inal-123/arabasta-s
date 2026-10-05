@@ -4,4 +4,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://103.129.172.105:2222/stream/channelid/1896622786?profile=pass
+http://tkiptv.net:80/play/live.php?mac=00:1A:79:67:43:6B&stream=438490&extension=ts&play_token=RDi35taAiu
